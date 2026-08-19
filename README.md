@@ -66,6 +66,10 @@ The Product Analysis page includes:
 * Page navigation
 * Data-driven storytelling
 
+## Dashboard Preview
+
+![Financial Sales Power BI Dashboard](dashboard_overview.png)
+
 ## Project Files
 
 * `Financial Sales Dashboard.pbix` – Interactive Power BI Desktop report
